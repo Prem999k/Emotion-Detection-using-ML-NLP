@@ -66,17 +66,3 @@ Access the deployed application here:
 
 ---
 
-## 📊 Model Performance
-
-- ✔ Train Accuracy: ~95–98%
-- ✔ Test Accuracy: ~88–91%
-- ✔ Balanced using class_weight
-
----
-
-## 🚀 How to Run Locally
-
-### 1️⃣ Clone Repository
-```bash
-git clone <your-repo-link>
-cd <project-folder>
