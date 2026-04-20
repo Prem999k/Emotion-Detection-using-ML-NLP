@@ -11,7 +11,7 @@ The system uses **Machine Learning (Logistic Regression)** with **TF-IDF feature
 
 Access the deployed application here:
 
-👉 [Emotion Detection App]([https://your-app-name.streamlit.app](https://emotion-detection-using-ml-nlp-premkumark.streamlit.app/))
+👉 https://emotion-detection-using-ml-nlp-premkumark.streamlit.app/
 ---
 
 ## 🎯 Features
