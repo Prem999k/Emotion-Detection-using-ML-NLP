@@ -1,10 +1,10 @@
 import streamlit as st
 import joblib
 import re
-import nltk
+import nltk   
 
-# 🔹 NLTK setup
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
